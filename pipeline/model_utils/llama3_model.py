@@ -24,9 +24,9 @@ LLAMA3_CHAT_TEMPLATE_FUTURE = """<|start_header_id|>user<|end_header_id|>
 
 {instruction}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
 
-<thinking>
+<think>
 [THINKING_SKIPPED]
-</thinking>
+</think>
 """
 
 LLAMA3_CHAT_TEMPLATE_WITH_SYSTEM = """<|start_header_id|>system<|end_header_id|>
